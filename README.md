@@ -6,7 +6,7 @@ This template includes pyrofork, mtprotocrypt and python-dotenv
 
 Examples include every example in the official pyrogram docs
 
-Docs that you can refer:
+Docs:
 - [Pyrogram](https://docs.pyrogram.org)
 - [Pyrofork](https://pyrofork.mayuri.my.id/main/)
 
